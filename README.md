@@ -1,7 +1,7 @@
 # About us
-Our vision 
+## Our vision 
 
-Our services 
+### Our services 
 -Business registration 
 -Web design 
 Data Analytics
